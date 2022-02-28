@@ -1,0 +1,23 @@
+/*
+Color palette:
+#D3ECA7
+#A1B57D
+#B33030
+#19282F
+*/
+main {
+  background: linear-gradient(90deg, #A1B57D 25%, #D3ECA7 75%);
+}
+
+.custom-header {
+  padding: 0;
+}
+
+.team-img {
+  width: 500px;
+  border-radius: 90%;
+}
+
+.custom-logo {
+  width: 120px;
+}
