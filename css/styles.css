@@ -6,7 +6,24 @@ Color palette:
 #19282F
 */
 main {
-  background: linear-gradient(90deg, #A1B57D 25%, #D3ECA7 75%);
+
+}
+
+.banner-container {
+  position: relative;
+  text-align: center;
+}
+
+.banner-img {
+  max-width: 100%;
+  position: relative;
+}
+
+.banner-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .custom-header {
